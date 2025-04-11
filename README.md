@@ -1,14 +1,12 @@
 # Crime Detection and Prevention System
 
-<!-- <div align="center">
-  <video src="assets/Project_Walkthrough.mp4" autoplay loop muted width="100%" playbackRate="2"></video>
-</div> -->
-
-<div align="center">
-  <video src="assets/Project_Walkthrough.mp4" width="100%" controls autoplay loop playbackRate="1.75">
-    <source src="assets/Project_Walkthrough.mp4" type="video/mp4" autoplay loop playbackRate="1.75">
-    Your browser does not support the video tag.
-  </video>
+<div>
+  <p>Watch the project walkthrough video to understand the system's capabilities and implementation details.</p>
+  <a href="https://drive.google.com/drive/folders/1oLmEYCsgdEyM7JGl3QI8dc-m3dASPULt?usp=sharing">
+    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; margin: 10px 0;">
+      Project Walkthrough Video
+    </button>
+  </a>
 </div>
 
 ## Project Overview
