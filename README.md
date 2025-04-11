@@ -5,8 +5,8 @@
 </div> -->
 
 <div align="center">
-  <video src="assets/Project_Walkthrough.mp4" width="100%" controls autoplay loop playbackRate="1.75">
-    <source src="assets/Project_Walkthrough.mp4" type="video/mp4" autoplay loop playbackRate="1.75">
+  <video src="assets/Project_Walkthrough_Video.mp4" width="100%" controls autoplay loop playbackRate="1.75">
+    <source src="assets/Project_Walkthrough_Video.mp4" type="video/mp4" autoplay loop playbackRate="1.75">
     Your browser does not support the video tag.
   </video>
 </div>
