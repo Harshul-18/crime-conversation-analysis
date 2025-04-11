@@ -2,7 +2,7 @@
 
 <div>
   <p>Watch the project walkthrough video to understand the system's capabilities and implementation details.</p>
-  <a href="https://drive.google.com/drive/folders/1oLmEYCsgdEyM7JGl3QI8dc-m3dASPULt?usp=sharing">
+  <a href="https://drive.google.com/file/d/1stmzkmcMO6zBVvZkSiEwg504OaFKH-I_/view?usp=sharing">
     <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; margin: 10px 0;">
       Project Walkthrough Video
     </button>
